@@ -1,0 +1,16 @@
+﻿  UriCommon.c
+  UriCompare.c
+  UriEscape.c
+  UriFile.c
+  UriIp4.c
+  UriIp4Base.c
+  UriNormalize.c
+  UriNormalizeBase.c
+  UriParse.c
+  UriParseBase.c
+  UriQuery.c
+  UriRecompose.c
+  UriResolve.c
+  UriShorten.c
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1397,5): warning MSB8012: TargetPath(D:\work\bmstu_lab09\uriparser\win32\Visual_Studio_2005\Release\uriparser.lib) не соответствует значению свойства выходного файла (D:\work\bmstu_lab09\uriparser\win32\Release\uriparser.lib) для Library. Это может привести к неправильной сборке проекта. Чтобы исправить это, убедитесь, что значения свойств $(OutDir), $(TargetName) и $(TargetExt) соответствуют значению, указанному в %(Lib.OutputFile).
+  uriparser.vcxproj -> D:\work\bmstu_lab09\uriparser\win32\Visual_Studio_2005\Release\uriparser.lib
